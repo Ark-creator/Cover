@@ -80,6 +80,7 @@ Full Stack Developer building scalable web & mobile applications.
 ---
 # 👨‍💻 Visit my Web Portfolio
 
-[![My Portfolio](https://github.com/user-attachments/assets/1239df17-0a43-4226-94b8-ce4b0cd8f6af)](https://romark-bayan-online-portfolio.vercel.app)
+[![My Portfolio]<img width="1881" height="933" alt="image" src="https://github.com/user-attachments/assets/bda8a6c0-0228-4938-8766-7123f97b6665" />
+)](https://romark-bayan-online-portfolio.vercel.app)
 
 
