@@ -10,7 +10,7 @@
       </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Nasratullah Shafiq&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Nasratullah-Shafiq&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
